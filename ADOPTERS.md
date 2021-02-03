@@ -17,3 +17,5 @@ _This list is currently under construction. Please add your use cases to this wi
 **_[dm-linuxkit](https://github.com/dotmesh-io/dm-linuxkit)_** A dotmesh controller for LinuxKit persistent storage management.
 
 **_[Linux Foundation Edge EVE](https://github.com/lf-edge/eve)_** Edge Virtualization Engine Operating System
+
+**_[ExtBit Limited](https://extbit.com)_** Extend systems with private and security, builds extended Linux base on LinuxKit.
